@@ -33,3 +33,9 @@ button:hover{
     margin-right: 1em;
     font-size:3.5em;
 }
+@media(max-width: 420px){
+    .wrapper{
+        width: 60%;
+        height: 60%;
+    }
+}

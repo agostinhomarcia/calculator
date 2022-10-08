@@ -1,6 +1,6 @@
 button{
-    width: 2.7em;
-    height: 2.7em;
+    width: 3em;
+    height: 3em;
     font-size: 1.5em;
     border: none;
     border-radius: 2em;
@@ -32,10 +32,4 @@ button:hover{
     justify-content: flex-end;
     margin-right: 1em;
     font-size:3.5em;
-}
-@media(max-width: 420px){
-    .wrapper{
-        width: 60%;
-        height: 60%;
-    }
 }

@@ -60,7 +60,7 @@ export default function Calculator() {
       <Box m={5} />
       <Container maxWidth="xs">
         <div className="wrapper">
-          <Box m={10} />
+          <Box m={13} />
           <h1 className="result">{num}</h1>
           <button onClick={clear}>AC</button>
           <button onClick={changeSign}>+/-</button>

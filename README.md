@@ -20,7 +20,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/agostinhomarcia/calculator?color=B22222">
 
- <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/calculator?color=B22222">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/react-shopping-cart?color=B22222">
 
    <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/calculator?color=B22222" /> 
 
@@ -46,7 +46,7 @@
 ## :dart: About ##
 
 
-<h4 align="center">Programming Quiz Test Your Knowledge  </h4>
+<h4 align="center">Calculator  </h4>
 
 <p align="center">
    <img src="https://media.giphy.com/media/vEylMrWuC19oc4zptX/giphy.gif" alt="Calc" width="650"/>

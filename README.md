@@ -20,7 +20,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/agostinhomarcia/calculator?color=B22222">
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/calculator?color=B22222">
+ <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/calculator?color=B22222">
 
    <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/calculator?color=B22222" /> 
 
@@ -92,7 +92,7 @@ $ yarn start or npm start
 ## :memo: License ##
 
 
-This project is under the [MIT license](./LICENSE).
+This project is under the [MIT license](./License).
 
 Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
